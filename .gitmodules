@@ -1,0 +1,3 @@
+[submodule "lib/mafia-test-one"]
+	path = lib/mafia-test-one
+	url = https://github.com/haskell-mafia/mafia-test-one.git
